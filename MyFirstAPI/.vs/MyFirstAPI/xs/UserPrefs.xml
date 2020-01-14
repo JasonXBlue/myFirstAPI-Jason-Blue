@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8D3115B0-6CAC-491C-9C9D-EFDE24A9FDCD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstAPI/Models/Person.cs">
+    <Files>
+      <File FileName="MyFirstAPI/Controllers/ValuesController.cs" Line="11" Column="24" />
+      <File FileName="MyFirstAPI/Models/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstAPI" expanded="True">
+            <Node name="MyFirstAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstAPI PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/Controllers/PeopleController.cs" relfile="MyFirstAPI/Controllers/PeopleController.cs" line="19" column="1" />
+      <Breakpoint file="/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/Controllers/PeopleController.cs" relfile="MyFirstAPI/Controllers/PeopleController.cs" line="16" column="1" />
+      <Breakpoint file="/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/Controllers/PeopleController.cs" relfile="MyFirstAPI/Controllers/PeopleController.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

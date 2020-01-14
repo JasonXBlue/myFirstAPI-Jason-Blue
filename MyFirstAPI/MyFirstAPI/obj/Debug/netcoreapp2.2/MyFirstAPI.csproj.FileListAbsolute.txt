@@ -1,0 +1,16 @@
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.deps.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.runtimeconfig.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.runtimeconfig.dev.json
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.dll
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/bin/Debug/netcoreapp2.2/MyFirstAPI.pdb
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.csprojAssemblyReference.cache
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cache
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorAssemblyInfo.cs
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.AssemblyInfoInputs.cache
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.AssemblyInfo.cs
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.RazorTargetAssemblyInfo.cache
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.dll
+/Users/jasonblue/Desktop/321.NET/MyFirstAPI/MyFirstAPI/obj/Debug/netcoreapp2.2/MyFirstAPI.pdb
